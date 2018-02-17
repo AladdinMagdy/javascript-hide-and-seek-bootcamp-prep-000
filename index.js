@@ -16,3 +16,7 @@ function increaseRankBy(n){
     ranks[i].innerHTML = value.toString();
   }
 }
+
+function deepestChild(){
+  const lis = document.querySelectorAll()
+}
